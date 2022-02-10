@@ -8,4 +8,7 @@ With a solid understanding of data structures and practice in solving algorithmi
 Additionally, I have passion for learning about topics in Deep Learning, Vision, Data Science, Big Data Analytics and Databases. I have also enjoyed my experience in full-stack development, using various frontend and backend frameworks, e.g. React, Angular, MongoDB, MySQL and NodeJS. 
 
 ## Projects
-// TODO
+1. TraNYCparency: A web app for safe AirBnB listings using NYC crime data. 
+[Full report](https://drive.google.com/file/d/1MfZsNIIK02BHtzqyVQ24_6Z0QsXFbLu9/view?usp=sharing)
+
+2. // TODO
